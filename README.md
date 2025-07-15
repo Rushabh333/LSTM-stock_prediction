@@ -16,7 +16,7 @@ This project implements an end-to-end pipeline for stock price prediction using 
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Rushabh333/LSTM-stock_prediction.git
 cd LSTM
 ```
 
